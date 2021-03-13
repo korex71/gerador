@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tarefas",
-    "slug": "tarefas",
+    "name": "gerador",
+    "slug": "gerador",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
